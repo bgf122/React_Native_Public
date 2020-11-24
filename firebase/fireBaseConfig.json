@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "731116074205",
+      "firebase_url": "https://mobiiliohjelmointi-ce7f4.firebaseio.com",
+      "project_id": "mobiiliohjelmointi-ce7f4",
+      "storage_bucket": "mobiiliohjelmointi-ce7f4.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:731116074205:android:73ec1714a7edc006f85734",
+          "android_client_info": {
+            "package_name": "com.smage.firebase"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "731116074205-37ka8vtnbhioqdsirukf1fn5557eko9t.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC6TXli4SdDYNQImDmFp3oovbiX9YyiMk8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "731116074205-37ka8vtnbhioqdsirukf1fn5557eko9t.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
